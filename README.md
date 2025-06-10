@@ -5,3 +5,4 @@ any sort of clipping would have been done yet. Using a custom interface system. 
 
 There have been a few bugs that would be shown, mostly the texture bug where textures are appeared as missing.
 ![image](https://github.com/user-attachments/assets/2dffff41-23f2-4324-a64b-eb06437e30fd)
+![image](https://github.com/user-attachments/assets/02e5cdf5-b47d-4b33-830c-b5cb91ec7c74)
