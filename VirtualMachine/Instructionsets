@@ -1,0 +1,20 @@
+Ins_0x0001 -> Push
+Ins_0x0002 -> Pop
+Ins_0x0003 -> Define
+Ins_0x0004 -> Undefine
+Ins_0x0005 -> Goto 
+Lbl_0x0006 -> Noreturn label
+Ins_0x0007 -> Goto then push result
+
+Add_0x0008 -> Add
+Mul_0x0009 -> Multiply
+Div_0x0010 -> Divide
+Sub_0x0011 -> Subtract
+Ret_0x0012 -> Return (used for noreturn)
+
+Reg_0x00
+Reg_0x01
+Reg_0x02
+Reg_0x03
+Reg_0x04
+Reg_0x05

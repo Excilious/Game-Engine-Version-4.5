@@ -1,0 +1,17 @@
+noreturn func CoolFunction()
+{
+    local: int CoolValue = Calculate();
+    print(CoolValue);
+}
+
+int func Calculate()
+{
+    local: int Dude1 = 2;
+    local: int Dude2 = 4;
+    return Dude1+Dude2;
+}
+
+noreturn func Start()
+{
+    CoolFunction();
+}
